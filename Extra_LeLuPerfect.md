@@ -4,7 +4,7 @@
 ## 规则
 
 棋盘是8×8
-![棋盘](https://img1.doubanio.com/view/photo/l/public/p2548887579.webp)
+![棋盘](https://img3.doubanio.com/view/photo/l/public/p2548893025.webp)
 
 攻击3个敌人的基地（A3-A6;H3-H6）；攻击的意思是指移动到那个格子上。
 
