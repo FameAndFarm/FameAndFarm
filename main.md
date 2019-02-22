@@ -1012,6 +1012,7 @@ $$
 牲畜可以在百货商店购买。
 
 牲畜及相关物品在百货商店的价格如下：
+
 |名称|价格(千坎特利)|
 |---|---|
 |鸡|1|
@@ -1340,27 +1341,27 @@ $$
 - 提高游戏竞技难度
 - 身份的象征
 
-宠物系统比较复杂，参见 *关于宠物系统的设定*
+宠物系统比较复杂，参见 [*关于宠物系统的设定*](https://github.com/AndrewImalion/FameAndFarm/blob/master/ExtraSettings.md#%E5%AE%A0%E7%89%A9)
 
 ---
 
 ### 疾病
 疾病是一种针对人物的负面效果的总称，大部分疾病会使人物无法行动，部分疾病具有传染性。
 
-疾病系统比较复杂，参见 *关于疾病系统的设定*
+疾病系统比较复杂，参见 [*关于疾病系统的设定*](https://github.com/AndrewImalion/FameAndFarm/blob/master/ExtraSettings.md#%E7%96%BE%E7%97%85)
 
 ---
 
 ### 天气和季节
 
-该系统比较复杂，参见 *关于天气季节的设定*
+该系统比较复杂，参见 [*关于天气季节的设定*](https://github.com/AndrewImalion/FameAndFarm/blob/master/ExtraSettings.md#%E5%A4%A9%E6%B0%94)
 
 ---
 
 ### 赛事和电子游戏
 赛事是电竞赛事和体育赛事，电子游戏是一种系统。
 
-此类系统比较复杂，参见 *关于赛事和电子游戏的设定*
+此类系统比较复杂，参见 [*关于赛事和电子游戏的设定*](https://github.com/AndrewImalion/FameAndFarm/blob/master/ExtraSettings.md#%E8%B5%9B%E4%BA%8B)
 
 ---
 
