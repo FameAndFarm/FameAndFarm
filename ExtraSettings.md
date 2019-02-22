@@ -65,7 +65,7 @@ lelu的游戏机制如下：
 **完全模式**
 获胜条件和电竞技能等级无关，二是要进行一个小游戏，这样就比较耗时，只有玩家要求进行完全模式，才会按照如此方式决定胜负。
 
-具体规则参见 *LeLu完全规则*
+具体规则参见 [*LeLu完全规则*](https://github.com/AndrewImalion/FameAndFarm/blob/master/Extra_LeLuPerfect.md)
 
 
 mii的游戏机制如下：
