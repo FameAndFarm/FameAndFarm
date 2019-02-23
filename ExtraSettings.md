@@ -68,7 +68,7 @@ lelu的游戏机制如下：
 具体规则参见 [*LeLu完全规则*](https://github.com/AndrewImalion/FameAndFarm/blob/master/Extra_LeLuPerfect.md)
 
 
-mii的游戏机制如下：
+mii的游戏机制如下：[*MII*](https://github.com/AndrewImalion/FameAndFarm/blob/master/MoralityIsImmortal.md)
 
 
 
