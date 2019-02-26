@@ -8,7 +8,6 @@
 
 <center> ver Alpha 1.0 </center>
 
-[TOC]
 
 ## 更新记录
 
