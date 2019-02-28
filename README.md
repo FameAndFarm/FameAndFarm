@@ -1,5 +1,5 @@
 # FameAndFarm
-table game
+A table game
 
 ---
 # PlayersManual
